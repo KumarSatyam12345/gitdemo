@@ -1,4 +1,5 @@
 # gitdemo
-author - satyam kumar
+this is my first git repository.
 <br>
-my first project
+author - satyam kuma(CSE)
+
